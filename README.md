@@ -49,7 +49,7 @@ Usage:
    python manage.py runserver
 2.Access the API at http://localhost:8000/ in your web browser.
 
-API Endpoints
+API Endpoints:
 List all products: GET /api/products/
 Create a new product: POST /api/products/
 Retrieve a specific product: GET /api/products/{id}/
@@ -57,5 +57,9 @@ Update a product: PUT /api/products/{id}/
 Delete a product: DELETE /api/products/{id}/
 For detailed documentation, visit the API Documentation section.
 
-Documentation
+Documentation:
 API documentation is available at /api/docs/. You can explore the endpoints, make requests, and view responses interactively.
+
+Contributing:
+Contributions are welcome! Feel free to open issues or pull requests for any improvements, bug fixes, or new features.
+
